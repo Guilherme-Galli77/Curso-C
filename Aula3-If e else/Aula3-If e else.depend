@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629921696 source:c:\users\guiga\documents\github\curso-c\aula3-if e else\main.c
+	<stdio.h>
+	<stdlib.h>
+
