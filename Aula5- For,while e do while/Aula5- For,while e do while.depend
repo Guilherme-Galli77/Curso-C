@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630110339 source:c:\users\guiga\documents\github\curso-c\aula5- for,while e do while\main.c
+	<stdio.h>
+	<stdlib.h>
+
